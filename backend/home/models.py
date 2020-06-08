@@ -36,4 +36,3 @@ class HomePage(models.Model):
 class NewDataModel(models.Model):
     "Generated Model"
     id2 = models.BigIntegerField()
-    id3 = models.BigIntegerField()
